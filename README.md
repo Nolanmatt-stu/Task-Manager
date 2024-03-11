@@ -18,3 +18,7 @@ It showcases:
   String Handling
   File Handling
   Importing Libraries 
+
+
+Installation:
+To test the program out for yourself, simply save the 3 files (the .py and two .txt files) locally to your device and open them as a workspace in any standard code editor (for example Visual Studio Code)
